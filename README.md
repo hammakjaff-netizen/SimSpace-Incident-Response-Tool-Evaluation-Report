@@ -20,7 +20,7 @@ The goal was to evaluate how each tool supports detection, investigation, valida
 - The assessment showed that incident response is more effective when multiple tools are used together rather than relying on a single platform.
 
 ## Files
-- `simspace_incident_response_tool_evaluation_report.docx`
+- simspace_incident_response_tool_evaluation_report.pdf
 
 ## Assessment Scope
 The report includes:
